@@ -1,3 +1,11 @@
+# Instructions
+
+1. Please download the latest nodejs/typescript
+2. Pull from git and run "npm i -save" in command line in base folder to add node modules
+3. Run "npm start" in command line to start the project
+3. Navigate to http://localhost:3000
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
